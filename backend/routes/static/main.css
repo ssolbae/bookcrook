@@ -1,0 +1,90 @@
+body {
+  background-color:#cccccc;
+	/*background-image: url('https://s-media-cache-ak0.pinimg.com/originals/eb/75/f2/eb75f200e3106eeecd0f0ab0c3ed4fd3.jpg');*/
+	/*background-size: cover;
+	text-align: center;
+	padding: 100px;*/
+}
+.top-buffer {
+   margin-top:20px;
+}
+
+.websiteName {
+  color: white !important;
+  font-size: 30px;
+  color: white;
+  margin-left: 200px;
+}
+
+.format {
+  /*text-align: center;*/
+  padding: 30px;
+}
+.image {
+  height: 150px;
+  width: 300px;
+  /*padding: 20px;*/
+}
+.circular--square {
+  border-radius: 50%;
+  height: 30px;
+  margin-right: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+
+.mainButtons{
+    margin: 25px;
+}
+
+.upperButtons {
+  left-margin: 30px;
+}
+
+.card {
+  background-color: white;
+  width: 800px;
+  /*height: 100px;*/
+  padding: 10px;
+  -webkit-box-shadow: 2px 2px 6px 1px #ccc;
+}
+
+.showRecipeBox {
+  opacity: 0.9;
+  margin-top: 30px;
+  margin-left: 5%;
+}
+
+.title {
+    font-family: sans-serif;
+    padding: 10px;
+    font-size: 1.2vw;
+}
+#imaginary_container{
+    margin-top:5%;
+}
+.stylish-input-group .input-group-addon{
+    background: white !important;
+}
+.stylish-input-group .form-control{
+	border-right:0;
+	box-shadow:0 0 0;
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+.recipe_section {
+  font-size: 20px;
+  margin-top: 5%;
+}
+
+/*
+ * Start Bootstrap - Logo Nav (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
